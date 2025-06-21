@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.45](https://github.com/RogerLamTd/dao-ui-mono/compare/ods-fork-v1.0.44...ods-fork-v1.0.45) (2025-06-21)
+
+
+### Bug Fixes
+
+* **aragon-ods-fork:** test ([44a50cc](https://github.com/RogerLamTd/dao-ui-mono/commit/44a50cc7569cbdfe646331db7f698d30680091d7))
+
 ## [Unreleased]
 
 ## [1.0.44] - 2024-08-20

@@ -16,7 +16,7 @@ const meta: Meta<typeof AddressInput> = {
 type Story = StoryObj<typeof AddressInput>;
 
 /**
- * Default usage of the AddressInput component.
+ * Default usage of the AddressInput component. Test
  */
 export const Default: Story = {
     args: {
